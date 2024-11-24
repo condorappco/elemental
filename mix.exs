@@ -22,7 +22,7 @@ defmodule Elemental.MixProject do
     [
       {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
       {:gettext, "~> 0.23"},
-      {:heroicons, "~> 0.5"},
+      {:heroicons, "~> 0.5.6"},
       {:phoenix, "~> 1.7"},
       {:phoenix_live_view, "~> 0.20"},
       {:twix, "~> 0.3"}
