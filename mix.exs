@@ -25,7 +25,7 @@ defmodule Elemental.MixProject do
       {:heroicons, "~> 0.5.6"},
       {:phoenix, "~> 1.7"},
       {:phoenix_live_view, "~> 1.0"},
-      {:twix, "~> 0.3"}
+      {:twix, github: "bratsche/twix"}
     ]
   end
 end
